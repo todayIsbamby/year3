@@ -1,0 +1,14 @@
+C:\Users\bamby\os ex\EX0\bin\Debug\net7.0\EX0.exe
+C:\Users\bamby\os ex\EX0\bin\Debug\net7.0\EX0.deps.json
+C:\Users\bamby\os ex\EX0\bin\Debug\net7.0\EX0.runtimeconfig.json
+C:\Users\bamby\os ex\EX0\bin\Debug\net7.0\EX0.dll
+C:\Users\bamby\os ex\EX0\bin\Debug\net7.0\EX0.pdb
+C:\Users\bamby\os ex\EX0\obj\Debug\net7.0\EX0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bamby\os ex\EX0\obj\Debug\net7.0\EX0.AssemblyInfoInputs.cache
+C:\Users\bamby\os ex\EX0\obj\Debug\net7.0\EX0.AssemblyInfo.cs
+C:\Users\bamby\os ex\EX0\obj\Debug\net7.0\EX0.csproj.CoreCompileInputs.cache
+C:\Users\bamby\os ex\EX0\obj\Debug\net7.0\EX0.dll
+C:\Users\bamby\os ex\EX0\obj\Debug\net7.0\refint\EX0.dll
+C:\Users\bamby\os ex\EX0\obj\Debug\net7.0\EX0.pdb
+C:\Users\bamby\os ex\EX0\obj\Debug\net7.0\EX0.genruntimeconfig.cache
+C:\Users\bamby\os ex\EX0\obj\Debug\net7.0\ref\EX0.dll
